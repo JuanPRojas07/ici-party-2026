@@ -36,3 +36,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Martín Jara
 * Darío Alonso
 * Jonathan Pierre
+* Diego Retamal
