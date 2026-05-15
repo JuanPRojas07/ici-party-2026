@@ -28,3 +28,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Ricardo Ibañez
 * Gerald Espinoza
 * César Jiménez
+* Sebastián León
