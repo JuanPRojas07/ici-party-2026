@@ -39,3 +39,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Diego Retamal
 * Juan Luengo <(´= ⩊ =`)>
 * Gonzalo Caceres
+* Claudio Olave
