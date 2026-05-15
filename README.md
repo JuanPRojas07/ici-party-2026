@@ -49,3 +49,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Lucas Ortiz Warnken
 * Juan Núñez
 * Christopher Quiroz
+* Joaquín Parra
