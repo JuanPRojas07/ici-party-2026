@@ -24,3 +24,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Oscar Faúndez
 * Vicente Lara
 * Santiago Fajardo
+* Sebastian Lillo
