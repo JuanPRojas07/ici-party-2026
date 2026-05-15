@@ -14,4 +14,6 @@ Añade tu nombre al final de la lista para poder participar.
 * Jose Tomas Baladron
 * Santiago Castaños
 * Gabriel Arenas
+* Joaquin Gallardo
+* Diego Fariña
 * Ronaldo Guerrero 
