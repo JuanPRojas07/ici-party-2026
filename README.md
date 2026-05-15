@@ -16,4 +16,21 @@ Añade tu nombre al final de la lista para poder participar.
 * Gabriel Arenas
 * Joaquin Gallardo
 * Diego Fariña
+* Ronaldo Guerrero 
+* Fabian Becerra
+* Adolfo Cancino
+* Miguel Duarte
+* Juan el Flores
+* Oscar Faúndez
+* Vicente Lara
+* Santiago Fajardo
+* Sebastian Lillo
+* Ricardo Ibañez
+* Gerald Espinoza
+* César Jiménez
+* Sebastián León
+* Nicolas Barrientos
+* Javier Campos
+* Camila Cutiño
+* Mathias Fernandes
 * Camila Garrido
