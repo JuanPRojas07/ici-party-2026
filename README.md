@@ -15,5 +15,13 @@ Añade tu nombre al final de la lista para poder participar.
 * Santiago Castaños
 * Gabriel Arenas
 * Joaquin Gallardo
+* Diego Fariña
+* Ronaldo Guerrero 
+* Fabian Becerra
+* Adolfo Cancino
+* Miguel Duarte
+* Juan el Flores
+* Oscar Faúndez
+* Vicente Lara
+* Santiago Fajardo
 * Sebastian Lillo
-
