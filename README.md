@@ -18,3 +18,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Diego Fariña
 * Ronaldo Guerrero 
 * Fabian Becerra
+* Adolfo Cancino
