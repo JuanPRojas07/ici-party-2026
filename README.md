@@ -29,3 +29,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Gerald Espinoza
 * César Jiménez
 * Sebastián León
+* Nicolas Barrientos
